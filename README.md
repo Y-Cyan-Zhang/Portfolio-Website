@@ -6,3 +6,14 @@ Uses:
 - Chakra UI
 - Framer Motion
 - Three.js
+
+Project Structure:
+- $root
+    |
+    |- pages
+    |
+    |- components
+    |
+    |- lib
+    |
+    |- public

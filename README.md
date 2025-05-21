@@ -8,8 +8,8 @@ Uses:
 - Three.js
 
 Project Structure:
+
     $root
-  
     |
     |- pages
     |
